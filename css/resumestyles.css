@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #0e0101;
+    background-color: rgb(156, 204, 238)
+}
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a{
+    color: darkblue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+a:visited{
+    color: rgb(15, 2, 110);
+}
+.resumelistheading{
+    front-weight: bold;
+    font-style: normal;
+}
+.underline{ text-decoration: underline;}
+.bold{ font-weight: bold;}
+.justify{ text-align: justify;}
+
+.homebg{
+    background-image: url('../assets/img/Jefferson\ Memorial.jpg');
+    background-position: top right;
+}
